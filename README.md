@@ -9,7 +9,7 @@ A balanced-performance kernel designed for smooth UI, stability, and comfortable
 - S21FE vE (r9s)
 - S20FE vSD (r8q)
 ---
-- **Group:**![Miranda AOSP](https://t.me/mir4ndSupport).
+- **Group:**![Miranda AOSP](t.me/mir4ndSupport).
 - **Channel Support:**![Miranda's Kernel](https://t.me/maKernel).
 
 ---
