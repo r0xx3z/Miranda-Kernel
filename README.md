@@ -4,12 +4,12 @@
 
 A balanced-performance kernel designed for smooth UI, stability, and comfortable daily/gaming use.
 ---
-DEVICES Support:
+📱 **DEVICES Support:**
 - Xiaomi Redmi Note 10 Pro (Sweet/Sweetin) 
 - S21FE vE (r9s)
 - S20FE vSD (r8q)
 ---
-Group: https://t.me/mir4ndSupport
+Group:![Grupo](https://t.me/mir4ndSupport).
 Channel: https://t.me/maKernel
 
 ---
