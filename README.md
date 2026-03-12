@@ -4,15 +4,16 @@
 
 A balanced-performance kernel designed for smooth UI, stability, and comfortable daily/gaming use.
 ---
-📱 **DEVICES Support:**
+📱 **DEVICES Support:** 📱
 - Xiaomi Redmi Note 10 Pro (Sweet/Sweetin) 
 - S21FE vE (r9s)
 - S20FE vSD (r8q)
 ---
 - **🧕 Group:**![Miranda AOSP](t.me/mir4ndSupport).
-- **🧕 Channel Support:**![Miranda's Kernel](https://t.me/maKernel).
+- **🧕 Channel Support:**![Miranda's Kernel](t.me/maKernel).
 
 ---
+ 📃DISCLAIMER📃
 - If Bootlop: Change ROM
 - Always backup before flashing 
 ---
