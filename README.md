@@ -13,5 +13,6 @@ A balanced-performance kernel designed for smooth UI, stability, and comfortable
 - **🧕 Channel Support:**![Miranda's Kernel](https://t.me/maKernel).
 
 ---
-If Bootlop: Change ROM
-Always backup before flashing 
+- If Bootlop: Change ROM
+- Always backup before flashing 
+---
