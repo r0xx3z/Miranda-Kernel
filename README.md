@@ -36,7 +36,7 @@ A balanced-performance kernel designed for smooth UI and comfortable daily/gamin
                           `/+++++//+++++:
                          `/++++++//++++++:
                         `/+++oooo//ooooooo/`
-                       ./ooo&&&sso//oss&ssso+`
+                       ./oo&&&sso//oss&ssso+`
                       .oossssso-`//`/ossssss+`
                      -oss&&sso/  //  :sss&ssso.
                     :oss&ssss/   //   os&&so+++.
