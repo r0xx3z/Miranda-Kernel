@@ -15,7 +15,8 @@ A balanced-performance kernel designed for smooth UI and comfortable daily/gamin
 ---
  📃DISCLAIMER📃
 - If Bootlop: Change ROM
-- Always backup before flashing 
+- Always backup before flashing
+- !! ONLY FOR AOSP !!
 ---
                                  00
                                  11
