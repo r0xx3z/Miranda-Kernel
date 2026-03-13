@@ -17,3 +17,32 @@ A balanced-performance kernel designed for smooth UI, stability, and comfortable
 - If Bootlop: Change ROM
 - Always backup before flashing 
 ---
+                                 00
+                                 11
+                                ====
+                                .//
+                               `o//:
+                              `+o//o:
+                             `+oo//oo:
+                             -+oo//oo+:
+                           `/:-:+//ooo+:
+                          `/+++++//+++++:
+                         `/++++++//++++++:
+                        `/+++oooo//ooooooo/`
+                       ./ooosssso//osssssso+`
+                      .oossssso-`//`/ossssss+`
+                     -osssssso.  //  :ssssssso.
+                    :osssssss/   //   osssso+++.
+                   /ossssssss/   //   +ssssooo/-
+                 `/ossssso+/:-   //   -:/+osssso+-
+                `+sso+:-`        //       `.-/+oso:
+               `++:.             //            `-/+/
+              `\`                //               `/.
+                                 /
+                 \ ============================= /
+                  \  \ Powered by Miranda's-T/  /
+                   \  \ Create by Miranda's /  /
+                   /===========================\
+                  / /  ASCII art by  Ll0rens  \ \
+                 =============================== 
+---                 
