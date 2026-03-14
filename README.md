@@ -1,7 +1,8 @@
-## Ll0rens 
+## 🥷Ll0rens 
 
 ![Miranda's Kernel](banner.png)
 
+---
 A balanced-performance kernel designed for smooth UI and comfortable daily/gaming use.
 ---
 📱 **DEVICES Support:** 📱
