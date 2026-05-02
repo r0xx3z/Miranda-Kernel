@@ -7,11 +7,11 @@ A balanced-performance kernel designed for smooth UI and comfortable daily/gamin
 ---
 📱 **DEVICES Support:** 📱
 - Xiaomi Redmi Note 10 Pro [(Sweet/Sweetin)](https://t.me/mir4ndSupport/49) 
-- S21FE vE [(r9s)](https://t.me/mir4ndSupport/6)
-- S20FE vSD [(r8q)](https://t.me/mir4ndSupport/5)
+- S21FE [(r9s)](https://t.me/mir4ndSupport/6)
+- S20FE [(r8q)](https://t.me/mir4ndSupport/5)
 ---
-- **🧕 Group:**[Miranda AOSP](https://t.me/mir4ndSupport)
-- **🧕 Channel Support:**[Miranda's Kernel](https://t.me/maKernel)
+
+- **🦅 Channel Support:**[Miranda's Kernel](https://t.me/mir4ndSupport)
 
 ---
  📃DISCLAIMER📃
@@ -21,7 +21,8 @@ A balanced-performance kernel designed for smooth UI and comfortable daily/gamin
 ⚠️ **Notes** ⚠️
 - There will be support with Nethunter (Any day)
 - The maintainer of the r8q kernel is lazy
-- Only builds A16
+- Only builds A16 (for now)
+- The project is in its initial stage, so it will only focus on AOSP ROMs.
 ---
 
 
@@ -44,12 +45,12 @@ A balanced-performance kernel designed for smooth UI and comfortable daily/gamin
                    /osss&ssss/   //   &sss&&eoo/-
                  `/ossssso+/:-   //   -:/+osssso+-
                 `+sso+:-`        //       `.-/+oso:
-               `++:.             //            `-/+/
-              `\`                //               `/.
+               `++:.             //            `-/+/'
+             .`\`                //               `/.'
                                  /
                  \ ============================= /
-                  \  \ Powered by Miranda's-T/  /
-                   \  \ Create by Miranda's /  /
+                  \  Powered by Miranda's Team  /
+                   \  / Create by Miranda's \  /
                    /===========================\
                   / /  ASCII art by  Ll0rens  \ \
                   =============================== 
