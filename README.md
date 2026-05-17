@@ -28,7 +28,7 @@ A balanced-performance kernel designed for smooth UI and comfortable daily/gamin
 
                   _____                    _____          
                  /\    \                  /\    \         
-                /::\____\_Miranda's_     /::\____\        
+                /::\____\ _Miranda's_    /::\____\        
                /::::|   |               /:::/    /        
               /:::::|   |              /:::/    /         
              /::::::|   |             /:::/    /          
@@ -42,7 +42,7 @@ A balanced-performance kernel designed for smooth UI and comfortable daily/gamin
                      /:::/    /         |::|   |          
                     /:::/    /          |::|   |          
                    /:::/    /           |::|   |          
-                  /:::/    /    _Kernel_|::|   |          
+                  /:::/    /   _Kernel_ |::|   |          
                  /:::/    /             |::|   |          
                 /:::/    /              \::|   |          
                 \::/    /                \:|   |          
